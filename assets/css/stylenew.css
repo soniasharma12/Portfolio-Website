@@ -911,7 +911,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.5;
-  box-shadow: 0 0 0 10px #FFEAB6;
+  box-shadow: 0 0 0 10px #FFF8E4;
 }
 
 .counter-num .counter {
@@ -1072,26 +1072,4 @@ a:hover {
   100% {
     transform: rotate(360deg);
   }
-}
-
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
-footer {
-  text-align: center;
-  color: #fff;
-  padding: 25px 0;
-  background: #EBB805;
-}
-
-footer .copyright {
-  margin-bottom: .3rem;
-}
-
-footer .credits {
-  margin-bottom: 0;
-}
-
-footer .credits a {
-  color: #fff;
 }
